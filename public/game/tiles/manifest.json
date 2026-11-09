@@ -1,0 +1,6 @@
+{
+  "size": 24,
+  "note": "One cell per block. Floors are the wall swatch with a lighter tread. Surface hazard chevrons are drawn, not lettered. Grate is keyed.",
+  "biomes": ["surface", "archive", "bio", "hangar", "choir"],
+  "shared": ["grate", "glass", "crack"]
+}

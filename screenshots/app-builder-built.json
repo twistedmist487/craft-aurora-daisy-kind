@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "SITE 51: BELOW",
+      "hasCanvas": true,
+      "bodyTextLen": 735,
+      "bodyTextHash": "5c02628279177230cb3d324ea09741da40309be00a85d26892cd8675e1c48f77",
+      "bodyTextPrefix": "BLACK SITE CLEARANCE FOR DEPTH AREA 51 · FACILITIES NIGHT SHIFT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "SITE 51: BELOW",
+      "hasCanvas": true,
+      "bodyTextLen": 384,
+      "bodyTextHash": "975f29e38b91aac4edea75a836f0b8bceb74e40b1d39103b2442fc2ef082921b",
+      "bodyTextPrefix": "BLACK SITE CLEARANCE FOR DEPTH AREA 51 · FACILITIES NIGHT SHIFT ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text changed (606 -> 384 chars, hash mismatch)"
+  ]
+}

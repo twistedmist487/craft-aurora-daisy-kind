@@ -1,0 +1,3 @@
+creating a metroidvania 2d side scrolling game. Area 51 Black Site. storytelling will be told with environmental art higher quality than player and enemy assets (PS1/PS2 era graphics) and found files. 
+
+This conversation belongs to a Grok project. The project's files are mounted at `/workspace/artifacts` — look there for user-provided sources before concluding the workspace has no project files. Files written there persist to the project across conversations.
